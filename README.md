@@ -1,8 +1,10 @@
-# Everyday One Motion - 20160714 "Plasma and Twister"
+# Everyday One Motion - 20160714  
 
-![](20160714.gif)
+"Plasma and Twister"  
 
-PICO-8
+![](20160714.gif)  
+
+PICO-8  
 
 [Everyday One Motion](http://motions.work/motion/317)  
 [Cartridge](http://www.lexaloffle.com/bbs/?tid=3816)  
